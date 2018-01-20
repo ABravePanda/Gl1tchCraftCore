@@ -1,0 +1,80 @@
+name: Gl1tchCraftCore
+version: 1
+main: me.gl1tchcraft.core.Main
+description: The Gl1tchCraft Core Plugin
+commands:
+    gamemode:
+        usage: /<command>
+        description: Gamemode command.
+        aliases: [g, gm]
+    teleport:
+        usage: /<command>
+        description: Teleport Command.
+        aliases: [tp]  
+    teleporthere:
+        usage: /<command>
+        description: TeleportHere Command.
+        aliases: [tphere]
+    skull:
+        usage: /<command>
+        description: Skull Command.
+        aliases: [head]
+    vanish:
+        usage: /<command>
+        description: Vanish Command.
+        aliases: [v]
+    chatcolor:
+        usage: /<command>
+        description: Chat Color Command.   
+    inventorysee:
+        usage: /<command>
+        description: Invsee Command.
+        aliases: [invsee]
+    swear:
+        usage: /<command>
+        description: Swear Command.
+        aliases: [swears]
+    enderchestsee:
+        usage: /<command>
+        description: Endersee Command.
+        aliases: [endersee] 
+    seen:
+        usage: /<command>
+        description: Seen Command.  
+    plugins:
+        usage: /<command>
+        description: Plugins Command.   
+        aliases: [plugs, plug, pl, plugin, mods] 
+    rain:
+        usage: /<command>
+        description: Rain Command. 
+        aliases: [downfall, cloudy] 
+    sun:
+        usage: /<command>
+        description: Sun Command.
+        aliases: [sunny]  
+    night:
+        usage: /<command>
+        description: Night Command. 
+    day:
+        usage: /<command>
+        description: Day Command.
+    heal:
+        usage: /<command>
+        description: Heal Command. 
+    kill:
+        usage: /<command>
+        description: Kill Command.
+    god:
+        usage: /<command>
+        description: Kill Command.
+    back:
+        usage: /<command>
+        description: Back Command. 
+    announce:
+        usage: /<command>
+        description: Announce Command. 
+    fly:
+        usage: /<command>
+        description: Fly Command. 
+        aliases: [flying, flight] 
